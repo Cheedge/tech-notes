@@ -1,0 +1,9 @@
+---
+title: "Cheedge — Algorithem Notes"
+---
+
+# Welcome to my notes
+
+This is the index page. See the first lesson:
+- [Notes 01](notes01.mkd)
+
